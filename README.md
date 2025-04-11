@@ -3,9 +3,8 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>  
 
-- 🎓 Actualmente  cursando la certificación CS50x – Introducción a la informática de Harvard, con el objetivo
-       de afianzar y expandir mis conocimientos en el campo de la informática y la programación
-- 🚀 Completando la **Carrera de Programación** en *CoderHouse* este año  
+- 🎓 Actualmente cursando la certificación CS50x Introducción a la informática de Harvard
+- 🚀 Completando la **Carrera de Programación** en *CoderHouse* este año 2025 
 - 🔹 Apasionado por el **Desarrollo Backend**, enfocado en **rendimiento, escalabilidad y arquitectura limpia**  
 - 🛡️ Entusiasta de la **Ciberseguridad** y las buenas prácticas para aplicaciones seguras  
 - 🌱 Aprendiendo constantemente nuevas tecnologías para mejorar la eficiencia y seguridad en el backend  
