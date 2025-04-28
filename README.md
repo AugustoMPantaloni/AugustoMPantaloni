@@ -3,12 +3,12 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>  
 
-- 🎓 Actualmente cursando la certificación CS50x Introducción a la informática de Harvard
-- 🚀 Completando la **Carrera de Programación** en *CoderHouse* este año 2025 
-- 🔹 Apasionado por el **Desarrollo Backend**, enfocado en **rendimiento, escalabilidad y arquitectura limpia**  
-- 🛡️ Entusiasta de la **Ciberseguridad** y las buenas prácticas para aplicaciones seguras  
-- 🌱 Aprendiendo constantemente nuevas tecnologías  
-- 📫 Cómo contactarme: **AugustoMPantaloni@gmail.com**
+🎓 Actualmente cursando la certificación CS50x - Introducción a la Informática (Harvard)
+🚀 Finalizando la Carrera de Programación en CoderHouse (2025)
+🔹 Apasionado por el Desarrollo Backend, con foco en rendimiento, escalabilidad y arquitectura limpia
+🛡️ Interesado en Ciberseguridad y prácticas de desarrollo seguro
+⚙️ Explorando Sistemas y Arquitectura, enfocado en comprender el funcionamiento interno del software y el hardware
+📬 Contacto: AugustoMPantaloni@gmail.com
   
 <br>
 <br>  
