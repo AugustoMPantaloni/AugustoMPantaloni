@@ -13,7 +13,7 @@
 
 - ⚙️ Explorando **Sistemas y Arquitectura**, enfocado en comprender el funcionamiento interno del software y el hardware
 
-- 🎯 Actualmente explorando el lenguaje **C** para fortalecer bases de programación de sistemas
+- 🎯 Actualmente aprendiendo el lenguaje **C** para fortalecer bases de programación de sistemas
 
 - 📬 Contacto: **AugustoMPantaloni@gmail.com**
 
