@@ -3,7 +3,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>  
 
-- 🎓 Actualmente cursando la certificación **CS50x - Introducción a la Informática** (Harvard)
+- 🎓 Actualmente cursando la certificación **CS50x Introducción a la Informática** (Harvard)
 
 - 🚀 Finalizando la **Carrera de Programación** en *CoderHouse* (2025)
 
