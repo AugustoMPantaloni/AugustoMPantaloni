@@ -7,7 +7,7 @@
 - 🚀 Completando la **Carrera de Programación** en *CoderHouse* este año 2025 
 - 🔹 Apasionado por el **Desarrollo Backend**, enfocado en **rendimiento, escalabilidad y arquitectura limpia**  
 - 🛡️ Entusiasta de la **Ciberseguridad** y las buenas prácticas para aplicaciones seguras  
-- 🌱 Aprendiendo constantemente nuevas tecnologías para mejorar la eficiencia y seguridad en el backend  
+- 🌱 Aprendiendo constantemente nuevas tecnologías  
 - 📫 Cómo contactarme: **AugustoMPantaloni@gmail.com**
   
 <br>
