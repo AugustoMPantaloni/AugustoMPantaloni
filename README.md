@@ -7,7 +7,6 @@
 - 🚀 Desarrollador Web graduado  
 - 🔹 Apasionado por la **Arquitectura de Software**, diseño de sistemas escalables y buenas prácticas de desarrollo  
 - 🛡️ Interesado en **Ciberseguridad** y en asegurar que los sistemas sean seguros y confiables  
-- ⚙️ Explorando **Sistemas y Hardware**, para entender cómo el software interactúa con el mundo real  
 - 📬 Contacto: **AugustoMPantaloni@gmail.com**
 
 <br>
