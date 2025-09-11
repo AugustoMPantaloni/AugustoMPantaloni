@@ -3,12 +3,12 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>  
 
-- 🎓 Certificado en **CS50x Introducción a la Informática** (Harvard)  
-- 🚀 Desarrollador Web graduado
-- 📚 Actualmente cursando **Fundamentos de Ingeniería de Software** en MIT 
-- 🔹 Apasionado por la **Arquitectura de Software**, diseño de sistemas escalables y buenas prácticas de desarrollo  
-- 🛡️ Interesado en **Ciberseguridad** y en asegurar que los sistemas sean seguros y confiables  
-- 📬 Contacto: **AugustoMPantaloni@gmail.com**
+- Certificado en **CS50x Introducción a la Informática** (Harvard)  
+- Desarrollador Web graduado
+- Actualmente cursando **Fundamentos de Ingeniería de Software** en MIT 
+- Apasionado por la **Arquitectura de Software**, diseño de sistemas escalables y buenas prácticas de desarrollo  
+- Interesado en **Ciberseguridad** y en asegurar que los sistemas sean seguros y confiables  
+- Contacto: **AugustoMPantaloni@gmail.com**
 
 <br>
 
